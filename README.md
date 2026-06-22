@@ -1,16 +1,127 @@
 ## Hi there 👋
+<h1 align="center">Hi, I'm Mohamed Rakah 👋</h1>
 
-<!--
-**morakah-hub/morakah-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Mechanical Engineering Student at UMass Amherst
+<br>
+Aircraft Design • Robotics • CAD • Autonomous Systems
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+
+* LWPLA Aircraft (In Development)
+* Fixed-Wing Aircraft Design and Flight Testing
+* CAD and Additive Manufacturing
+* Autonomous Systems
+
+---
+
+## ✈️ Aircraft Projects
+
+### LWPLA Aircraft
+
+Lightweight fixed-wing aircraft currently being developed using CAD and additive manufacturing techniques.
+
+### RC Aircraft Development
+
+Designed and built 6+ RC aircraft configurations including:
+
+* Delta-Canard
+* Flying Wing
+* T-Tail
+* Conventional Tail
+
+Key areas explored:
+
+* Stability and control
+* Center of gravity placement
+* Flight testing
+* Structural design
+* Landing gear development
+* Failure analysis
+
+### Highlights
+
+* Multiple successful flights
+* Custom CAD-designed landing wheels
+* FPV integration
+* 3D printed aircraft components
+
+---
+
+## 🤖 Robotics Projects
+
+### Helper Robot
+
+Human-assistance robot designed to help users organize daily activities and reminders.
+
+### Autonomous Vehicle
+
+Built for the Qatar National Computer Vision Competition.
+
+Technologies:
+
+* Raspberry Pi
+* Arduino
+* Computer Vision
+* Lane Detection
+* Obstacle Avoidance
+
+---
+
+## 🚁 Drone Projects
+
+Built and operated multiple FPV and multirotor drone systems.
+
+Experience includes:
+
+* Flight controllers
+* FPV systems
+* Radio systems
+* Troubleshooting
+* Field testing
+
+---
+
+## 🏆 Leadership & Competitions
+
+### Founder — OBK Robotics
+
+Founded and led a high school robotics club focused on engineering projects and competitions.
+
+### Competition Experience
+
+* Qatar Schools Robotics Competition
+* Arab Robotics Competition
+* Qatar National Computer Vision Competition
+
+---
+
+## 🛠️ Skills
+
+### Engineering
+
+* Onshape CAD
+* Mechanical Design
+* Aircraft Design
+* Flight Testing
+* 3D Printing
+
+### Electronics
+
+* Arduino
+* Raspberry Pi
+* Soldering
+* RC Systems
+* System Integration
+
+---
+
+## 🎯 Goals
+
+* Complete the LWPLA aircraft
+* Expand my engineering portfolio
+* Participate in aerospace research
+* Develop autonomous aircraft systems
