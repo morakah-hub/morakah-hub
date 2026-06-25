@@ -12,9 +12,9 @@ Aircraft Design • Robotics • CAD • Autonomous Systems
 ## 🚀 Current Projects
 
 * [LWPLA Aircraft](https://github.com/morakah-hub/LWPLA-Aircraft)
-* Fixed-Wing Aircraft Design and Flight Testing
-* CAD and Additive Manufacturing
-* Autonomous Systems
+* [RC-Aircraft-Development](https://github.com/morakah-hub/RC-Aircraft-Development)
+* [Helper-Robot](https://github.com/morakah-hub/Helper-Robot)
+* [Drone-Projects](https://github.com/morakah-hub/Drone-Projects)
 
 ---
 
