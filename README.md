@@ -2,7 +2,7 @@
 
 <p align="center">
   Mechanical Engineering @ UMass Amherst<br>
-  <em>Building things that fly, roll, and think</em>
+  <em>Designing systems that fly, print, and move autonomously</em>
 </p>
 
 <p align="center">
@@ -12,42 +12,43 @@
 
 ---
 
-I design, fabricate, and fly things — from lightweight composite airframes to autonomous UAVs and assistive robots. My work sits at the intersection of mechanical design, embedded systems, and hands-on manufacturing.
+I build at the overlap of aerospace, robotics, and automated manufacturing — designing airframes, programming embedded systems, and fabricating with carbon fiber and 3D printing. Whether it's a UAV navigating autonomously or a robot arm executing a task, I care about the full stack: design, fabrication, and control.
 
 ---
 
 ## Projects
 
-### ✈️ Aircraft
+### ✈️ Aerospace & Drones
 
 | Project | Description |
 |---|---|
 | [LWPLA Aircraft](https://github.com/morakah-hub/LWPLA-Aircraft) | Lightweight PLA composite airframe — full design, fabrication, and flight testing cycle |
 | [RC Aircraft Development](https://github.com/morakah-hub/RC-Aircraft-Development) | Iterative RC platform exploring aerodynamics, stability, and control systems |
+| [Drone Projects](https://github.com/morakah-hub/Drone-Projects) | UAV platforms built for autonomous navigation and aerial applications |
 
-### 🤖 Robotics & UAVs
+### 🤖 Robotics & Automation
 
 | Project | Description |
 |---|---|
 | [Helper Robot](https://github.com/morakah-hub/Helper-Robot) | Assistive robotics with embedded control, sensor integration, and mechanical assembly |
-| [Drone Projects](https://github.com/morakah-hub/Drone-Projects) | UAV platforms built for autonomous navigation and aerial applications |
 
 ---
 
 ## Skills
 
-**Design & Engineering**
-`Onshape CAD` `Aircraft Design` `Mechanical Design` `Flight Testing`
+**Aerospace & UAV**
+`Aircraft Design` `Flight Testing` `RC Electronics` `Autonomous Systems`
 
-**Electronics & Programming**
-`Arduino` `Raspberry Pi` `Embedded Systems` `RC Electronics` `Soldering`
+**Robotics & Embedded**
+`Arduino` `Raspberry Pi` `Embedded Systems` `Soldering` `Sensor Integration`
 
-**Manufacturing**
-`Carbon Fiber Fabrication` `FDM 3D Printing` `Rapid Prototyping` `Mechanical Assembly`
+**Additive & Advanced Manufacturing**
+`FDM 3D Printing` `Carbon Fiber Fabrication` `Rapid Prototyping` `Onshape CAD`
 
 ---
 
 ## Currently working on
 
-- Expanding autonomous capabilities on my UAV platforms
-- Exploring composite manufacturing techniques for lighter airframes
+- Autonomous navigation and control systems for UAV platforms
+- Lightweight composite fabrication techniques for aerospace applications
+- Exploring robotic automation in manufacturing workflows
