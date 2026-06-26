@@ -1,4 +1,4 @@
-<h1 align="center">Mohamed Essadak Rakah</h1>
+<h1 align="center">Mohamed-Essadak Rakah</h1>
 
 <p align="center">
   Mechanical Engineering @ UMass Amherst<br>
