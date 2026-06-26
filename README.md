@@ -2,7 +2,7 @@
 
 <p align="center">
   Mechanical Engineering @ UMass Amherst<br>
-  <em>Designing systems that fly, print, and move autonomously</em>
+  <em>I build things that fly, think, and make other things</em>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-I build at the overlap of aerospace, robotics, and automated manufacturing — designing airframes, programming embedded systems, and fabricating with carbon fiber and 3D printing. Whether it's a UAV navigating autonomously or a robot arm executing a task, I care about the full stack: design, fabrication, and control.
+Airframes, robots, printers, drones. I like figuring out how things work and then building them. Most of my projects live somewhere between mechanical design, embedded systems, and whatever manufacturing process makes sense for the job.
 
 ---
 
@@ -22,15 +22,15 @@ I build at the overlap of aerospace, robotics, and automated manufacturing — d
 
 | Project | Description |
 |---|---|
-| [LWPLA Aircraft](https://github.com/morakah-hub/LWPLA-Aircraft) | Lightweight PLA composite airframe — full design, fabrication, and flight testing cycle |
-| [RC Aircraft Development](https://github.com/morakah-hub/RC-Aircraft-Development) | Iterative RC platform exploring aerodynamics, stability, and control systems |
-| [Drone Projects](https://github.com/morakah-hub/Drone-Projects) | UAV platforms built for autonomous navigation and aerial applications |
+| [LWPLA Aircraft](https://github.com/morakah-hub/LWPLA-Aircraft) | Lightweight PLA composite airframe. Designed, and yet to be fabricated. |
+| [RC Aircraft Development](https://github.com/morakah-hub/RC-Aircraft-Development) | Iterative RC platform for exploring aerodynamics and control |
+| [Drone Projects](https://github.com/morakah-hub/Drone-Projects) | UAV builds focused on autonomous navigation and aerial applications |
 
 ### 🤖 Robotics & Automation
 
 | Project | Description |
 |---|---|
-| [Helper Robot](https://github.com/morakah-hub/Helper-Robot) | Assistive robotics with embedded control, sensor integration, and mechanical assembly |
+| [Helper Robot](https://github.com/morakah-hub/Helper-Robot) | Assistive robot with embedded control and sensor integration |
 
 ---
 
@@ -42,13 +42,13 @@ I build at the overlap of aerospace, robotics, and automated manufacturing — d
 **Robotics & Embedded**
 `Arduino` `Raspberry Pi` `Embedded Systems` `Soldering` `Sensor Integration`
 
-**Additive & Advanced Manufacturing**
+**Manufacturing**
 `FDM 3D Printing` `Carbon Fiber Fabrication` `Rapid Prototyping` `Onshape CAD`
 
 ---
 
 ## Currently working on
 
-- Autonomous navigation and control systems for UAV platforms
-- Lightweight composite fabrication techniques for aerospace applications
-- Exploring robotic automation in manufacturing workflows
+- Pushing autonomy further on my UAV platforms especially the LW-PLA plane
+- Getting better at composite fabrication
+- Tinkering with robotic automation on the manufacturing side
