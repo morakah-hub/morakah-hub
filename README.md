@@ -1,7 +1,7 @@
 <h1 align="center">Mohamed-Essadak Rakah</h1>
 <p align="center">
   Mechanical Engineering @ UMass Amherst<br>
-  <em>I build things that fly, think, and make other things</em>
+  <em>Mechanical systems, autonomous robots, and aircraft built from the ground up.</em>
 </p>
 <p align="center">
   <a href="mailto:mrakah@umass.edu">mrakah@umass.edu</a> ·
