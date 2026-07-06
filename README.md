@@ -1,10 +1,8 @@
 <h1 align="center">Mohamed-Essadak Rakah</h1>
-
 <p align="center">
   Mechanical Engineering @ UMass Amherst<br>
   <em>I build things that fly, think, and make other things</em>
 </p>
-
 <p align="center">
   <a href="mailto:mrakah@umass.edu">mrakah@umass.edu</a> ·
   <a href="https://www.linkedin.com/in/mohamed-essadak-rakah-6b8703337">LinkedIn</a>
@@ -22,7 +20,7 @@ Airframes, robots, printers, drones. I like figuring out how things work and the
 
 | Project | Description |
 |---|---|
-| [LWPLA Aircraft](https://github.com/morakah-hub/LWPLA-Aircraft) | Lightweight PLA composite airframe. Designed, and yet to be fabricated. |
+| [LWPLA Aircraft](https://github.com/morakah-hub/LWPLA-Aircraft) | 3D-printed flying-wing UAV — published XFOIL, CG, and performance analyses; manufacturing in progress |
 | [RC Aircraft Development](https://github.com/morakah-hub/RC-Aircraft-Development) | Iterative RC platform for exploring aerodynamics and control |
 | [Drone Projects](https://github.com/morakah-hub/Drone-Projects) | UAV builds focused on autonomous navigation and aerial applications |
 
@@ -37,7 +35,7 @@ Airframes, robots, printers, drones. I like figuring out how things work and the
 ## Skills
 
 **Aerospace & UAV**
-`Aircraft Design` `Flight Testing` `RC Electronics` `Autonomous Systems`
+`Aircraft Design` `Aerodynamic Analysis` `Flight Testing` `RC Electronics`
 
 **Robotics & Embedded**
 `Arduino` `Raspberry Pi` `Embedded Systems` `Soldering` `Sensor Integration`
@@ -49,6 +47,6 @@ Airframes, robots, printers, drones. I like figuring out how things work and the
 
 ## Currently working on
 
-- Pushing autonomy further on my UAV platforms especially the LW-PLA plane
+- Manufacturing and flight-testing the LW-PLA flying wing — full autonomy is the V2 goal
 - Getting better at composite fabrication
-- Tinkering with robotic automation on the manufacturing side
+- Building up my MATLAB skills for control systems
