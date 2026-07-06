@@ -1,7 +1,7 @@
 <h1 align="center">Mohamed-Essadak Rakah</h1>
 <p align="center">
   Mechanical Engineering @ UMass Amherst<br>
-  <em>Mechanical systems, autonomous robots, and aircraft built from the ground up.</em>
+  <em>I build things that fly, think, and move.</em>
 </p>
 <p align="center">
   <a href="mailto:mrakah@umass.edu">mrakah@umass.edu</a> ·
@@ -16,19 +16,19 @@ Airframes, robots, printers, drones. I like figuring out how things work and the
 
 ## Projects
 
-### ✈️ Aerospace & Drones
+### ✈️ Aerospace & UAVs
 
 | Project | Description |
 |---|---|
-| [LWPLA Aircraft](https://github.com/morakah-hub/LWPLA-Aircraft) | 3D-printed flying-wing UAV — published XFOIL, CG, and performance analyses; manufacturing in progress |
-| [RC Aircraft Development](https://github.com/morakah-hub/RC-Aircraft-Development) | Iterative RC platform for exploring aerodynamics and control |
-| [Drone Projects](https://github.com/morakah-hub/Drone-Projects) | UAV builds focused on autonomous navigation and aerial applications |
+| [LWPLA Aircraft](https://github.com/morakah-hub/LWPLA-Aircraft) | 3D-printed flying-wing UAV with published XFOIL, CG, and preliminary performance analyses. Manufacturing and flight testing in progress. **Start here.** |
+| [RC Aircraft Development](https://github.com/morakah-hub/RC-Aircraft-Development) | Iterative fixed-wing development documenting the design, construction, testing, failures, and lessons learned across multiple RC aircraft. |
+| [Drone Projects](https://github.com/morakah-hub/Drone-Projects) | Multirotor UAV builds focused on FPV systems, electronics integration, and experimental aerial platforms. |
 
 ### 🤖 Robotics & Automation
 
 | Project | Description |
 |---|---|
-| [Helper Robot](https://github.com/morakah-hub/Helper-Robot) | Assistive robot with embedded control and sensor integration |
+| [Helper Robot](https://github.com/morakah-hub/Helper-Robot) | Assistive robot for organizing daily tasks, built on embedded control and sensor integration. |
 
 ---
 
@@ -41,12 +41,12 @@ Airframes, robots, printers, drones. I like figuring out how things work and the
 `Arduino` `Raspberry Pi` `Embedded Systems` `Soldering` `Sensor Integration`
 
 **Manufacturing**
-`FDM 3D Printing` `Carbon Fiber Fabrication` `Rapid Prototyping` `Onshape CAD`
+`Onshape CAD` `FDM 3D Printing` `Carbon Fiber Fabrication` `Rapid Prototyping`
 
 ---
 
 ## Currently working on
 
-- Manufacturing and flight-testing the LW-PLA flying wing — full autonomy is the V2 goal
+- Manufacturing and flight-testing the **LWPLA flying-wing UAV**
 - Getting better at composite fabrication
 - Building up my MATLAB skills for control systems
