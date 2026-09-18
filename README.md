@@ -17,7 +17,7 @@ Airframes, robots, printers, drones. I like figuring out how things work and the
 
 | Project | Description |
 | --- | --- |
-| [LWPLA Aircraft](https://github.com/morakah-hub/LWPLA-Aircraft) | 3D-printed flying-wing UAV, fully documented from design through build. Rebuilding as a modular test platform, first flight soon. **Start here.** |
+| **AWRAS** — 3D-printed flying-wing UAV program | [**1.0**](https://github.com/morakah-hub/AWRAS-1.0) is the design and analysis — airfoil study, CG and stability work, performance estimates. **Start here.**<br>[**1.1**](https://github.com/morakah-hub/AWRAS-1.1) was built and wired in Qatar but never got to fly.<br>[**1.2**](https://github.com/morakah-hub/AWRAS-1.2) is the current aircraft. First flight within two weeks. |
 | [RC Aircraft Development](https://github.com/morakah-hub/RC-Aircraft-Development) | Iterative fixed-wing development documenting the design, construction, testing, failures, and lessons learned across multiple RC aircraft. |
 | [Drone Projects](https://github.com/morakah-hub/Drone-Projects) | Multirotor builds focused on FPV systems, electronics integration, and experimental aerial platforms. |
 
@@ -42,7 +42,7 @@ Airframes, robots, printers, drones. I like figuring out how things work and the
 
 ## Currently working on
 
-- Finishing and flight-testing the **LWPLA flying-wing UAV**
+- Finishing and flight-testing **AWRAS 1.2** — first flight within two weeks
 - Modifying the team's CNC router for carbon fiber and printed parts
 - Getting better at composite fabrication
 - Building up my MATLAB skills for control systems
