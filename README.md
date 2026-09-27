@@ -42,7 +42,7 @@ Airframes, robots, printers, drones. I like figuring out how things work and the
 
 ## Currently working on
 
-- Finishing and flight-testing **AWRAS 1.2** — first flight within two weeks
+- - Building a launch catapult for **AWRAS 1.2** after two hand-launch attempts fell short on speed
 - Modifying the team's CNC router for carbon fiber and printed parts
 - Getting better at composite fabrication
 - Building up my MATLAB skills for control systems
