@@ -32,7 +32,7 @@ Designing/modifying/operating robots, FDM printers, drones, planes (airframe), a
 
 ## Skills
 
-*Design & Manufacturing** `Onshape CAD` `FDM 3D Printing` `Carbon Fiber Layup` `Rapid Prototyping`
+**Design & Manufacturing** `Onshape CAD` `FDM 3D Printing` `Carbon Fiber Layup` `Rapid Prototyping`
 
 **Electronics** `Arduino` `Power Distribution` `Soldering & Wiring` `Sensor Integration`
 
@@ -42,7 +42,7 @@ Designing/modifying/operating robots, FDM printers, drones, planes (airframe), a
 
 ## Currently working on
 
-- - Building a launch catapult for **AWRAS 1.2** after two hand-launch attempts fell short on speed
+- Building a launch catapult for **AWRAS 1.2** after two hand-launch attempts fell short on speed
 - Modifying the team's CNC router for carbon fiber and printed parts
 - Getting better at composite fabrication
 - Building up my MATLAB skills for control systems
