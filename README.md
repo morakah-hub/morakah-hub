@@ -7,7 +7,7 @@ Mechanical Engineering @ UMass Amherst
 
 ---
 
-Airframes, robots, printers, drones, planes, CNC-machines. I like figuring out how things work and then building them. Most of my projects live somewhere between mechanical design, embedded systems, and whatever manufacturing process makes sense for the job.
+Designing/modifying/operating robots, FDM printers, drones, planes (airframe), and CNC-machines. I learn how systems work, then design and build them into my own. My projects have an emphasis in mechanical design, embedded systems, and any manufacturing processes that gets the job done.
 
 ---
 
