@@ -32,7 +32,7 @@ Designing/modifying/operating robots, FDM printers, drones, planes (airframe), a
 
 ## Skills
 
-**Design & Manufacturing** `Onshape CAD` `FDM 3D Printing` `Carbon Fiber Layup` `Rapid Prototyping`
+*Design & Manufacturing** `Onshape CAD` `FDM 3D Printing` `Carbon Fiber Layup` `Rapid Prototyping`
 
 **Electronics** `Arduino` `Power Distribution` `Soldering & Wiring` `Sensor Integration`
 
