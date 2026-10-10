@@ -3,7 +3,7 @@
 Mechanical Engineering @ UMass Amherst
 *I build things that fly, think, and move.*
 
-<mrakah@umass.edu> · [LinkedIn](https://www.linkedin.com/in/mohamed-essadak-rakah)
+<mrakah@umass.edu> · <mohamedessadakrakah@gmail.com> · [LinkedIn](https://www.linkedin.com/in/mohamed-essadak-rakah)
 
 ---
 
