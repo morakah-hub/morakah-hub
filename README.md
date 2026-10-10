@@ -45,5 +45,4 @@ Designing/modifying/operating robots, FDM printers, drones, planes (airframe), a
 
 - Rebuilding as **AWRAS 1.3** and tracking down the control issue that crashed 1.2
 - Modifying the team's CNC router for carbon fiber and printed parts
-- Getting better at composite fabrication
-- Building up my MATLAB skills for control systems
+- Planning to start a big robotics, AI, & automation project 
